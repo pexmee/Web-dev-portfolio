@@ -1,7 +1,7 @@
-/**
- * This is a famous quotes generator that 
- * generates a different quote every time a user prompts for one.
- **/ 
+/*
+    This is a web app that generates famous quotes. 
+    It generates a different quote every time a user prompts for one.
+*/ 
 
 
 const randMess = () => {
