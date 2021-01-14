@@ -1,2 +1,3 @@
-# Welcome to my portfolio. Here's a list of the different projects it contains, in addition to a short summary:
+# Welcome to my Full-Stack dev portfolio  
+## Below you'll find a list of projects in regards to Full-Stack development.
 
