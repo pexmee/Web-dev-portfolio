@@ -7,4 +7,4 @@ from a selection of famous quotes from Julius Caesar, Stephen Hawking and Jim Je
 
 
 ### Status of project completion:
-- [X] message_generator
+- [X] [message_generator](https://github.com/pexmee/Web-dev-portfolio/tree/main/message_generator)
